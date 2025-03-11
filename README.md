@@ -11,3 +11,5 @@ Premier commit dans la branche `deuxieme_branche`.
 Commit squash 1
 Commit squash 2
 Commit squash 3
+
+1er commit dans la branche pycharm 
